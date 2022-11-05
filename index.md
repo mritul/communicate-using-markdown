@@ -6,3 +6,9 @@
 ```
   console.log("Hello World !");
 ```
+
+# Task list
+
+- [ ] Turn on Github Pages
+- [ ] Outline my Portfolio
+- [ ] Introduce myself to the world
